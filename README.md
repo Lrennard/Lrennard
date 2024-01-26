@@ -1,4 +1,4 @@
-### Hi there 👋
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=24F737&random=false&width=435&lines=Welcome+To+My+Profile%2C;Checkout+what+I'm+working+on+%3A);Feel+Free+to+reach+out!+I+love+to+chat+about+Tech.;coinhead+on+DIscord)](https://git.io/typing-svg)
 
 [![Lrennard's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lrennard)](https://github.com/Lrennard/github-readme-stats)
 
