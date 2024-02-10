@@ -6,8 +6,8 @@
 
 # 💾 Stats
 
-[![L3 Lee's github stats](https://github-readme-stats.vercel.app/api?username=Lrennard&show_icons=true&count_private=true&theme=dark)](https://links.l3lee.com/github)
-
+[![L3 Lee's github stats](https://github-readme-stats.vercel.app/api?username=Lrennard&show_icons=true&count_private=true&theme=dark)](https://l3lee.com/github)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Lrennard&theme=dark&count_private=true&theme=dark)](https://l3lee.com/github)
 <!--
 **Lrennard/Lrennard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
