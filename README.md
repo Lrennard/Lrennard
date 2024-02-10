@@ -1,7 +1,12 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=24F737&random=false&width=615&height=40&lines=Welcome+To+My+Profile;Checkout+what+I'm+working+on;Feel+Free+to+reach+out!+I+love+Tech+Chats;coinhead+on+Discord)](https://git.io/typing-svg)
 
-[![L3 Lee's github stats](https://github-readme-stats.vercel.app/api?username=Lrennard&show_icons=true&count_private=true&theme=dark)](https://links.l3lee.com/github)
+# ⚡ My Templates
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Lrennard&repo=Templates&theme=dark)](https://github.com/Lrennard/Templates)
+
+# 💾 Stats
+
+[![L3 Lee's github stats](https://github-readme-stats.vercel.app/api?username=Lrennard&show_icons=true&count_private=true&theme=dark)](https://links.l3lee.com/github)
 
 <!--
 **Lrennard/Lrennard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
