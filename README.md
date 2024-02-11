@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=24F737&random=false&width=615&height=40&lines=Welcome+To+My+Profile;Checkout+what+I'm+working+on;Feel+Free+to+reach+out!+I+love+Tech+Chats;coinhead+on+Discord)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=24F737&random=false&width=615&height=40&lines=Welcome+To+My+Profile;Checkout+what+I'm+working+on;Reach+out!+I+love+Tech+Chats;coinhead+on+Discord)](https://git.io/typing-svg)
 
 # ⚡ My Templates
 
