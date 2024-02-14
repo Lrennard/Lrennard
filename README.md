@@ -3,6 +3,7 @@
 # ⚡ My Templates
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Lrennard&repo=Templates&theme=dark)](https://github.com/Lrennard/Templates)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Lrennard&repo=bskyBot&theme=dark)](https://github.com/Lrennard/bskyBot)
 
 # 💾 Stats
 
