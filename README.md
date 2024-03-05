@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=24F737&random=false&width=615&height=40&lines=Welcome;Checkout+what+I'm+working+on;Reach+out!+I+love+Tech+Chats;coinhead+on+Discord)](https://git.io/typing-svg)
 
-# ⚡ My Templates
+# ⚡ WIP
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Lrennard&repo=Templates&theme=dark)](https://github.com/Lrennard/Templates)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Lrennard&repo=k8s-apps&theme=dark)](https://github.com/Lrennard/k8s-apps)
