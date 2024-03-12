@@ -2,9 +2,10 @@
 
 # ⚡ WIP
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Lrennard&repo=Templates&theme=dark)](https://github.com/Lrennard/Templates)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Lrennard&repo=ansible&theme=dark)](https://github.com/Lrennard/ansible)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Lrennard&repo=k8s-apps&theme=dark)](https://github.com/Lrennard/k8s-apps)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Lrennard&repo=bskyBot&theme=dark)](https://github.com/Lrennard/bskyBot)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Lrennard&repo=Templates&theme=dark)](https://github.com/Lrennard/Templates)
 
 # 💾 Stats
 
